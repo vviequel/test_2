@@ -1,0 +1,62 @@
+.html{
+    scroll-behavior: smooth;
+}
+.navpic{
+    height: 30px;
+}
+.nav-margin-before-icon{
+    margin-right: 10px;
+}
+.homepage{
+    margin-top: 80px;
+}
+.big-margin{
+    margin-top: 100px;
+}
+.container{
+    max-width: 1200px;
+}
+section{
+    margin-top: 20px;
+}
+.footer{
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-size: 80%;
+}
+.bottom{
+    font-size: 70%;
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+a{
+    color: rgb(61, 61, 189);
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+li ul{
+    list-style-type: decimal;
+}
+.li-small-position{
+    margin-left: -20px;
+}
+.form-control{
+    width: 1200px;
+    height: max-content;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+.form-small-width{
+    width: 290px;
+}
+.form-radio{
+    margin-bottom: 25px;
+    margin-top: 10px
+}

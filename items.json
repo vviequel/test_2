@@ -1,0 +1,91 @@
+
+[
+    {
+        "id": "1",
+        "title": "CORNFLOWER",
+        "vendorcode": "111",
+        "description": "Кружка, которая подарит уют и летнюю атмосферу в пасмурный день",
+        "price": 1800,
+        "img": "ctlg/1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "LIKKELISE",
+        "vendorcode": "222",
+        "description": "Идеальный вариант для Вашего эстетичного канала в Телеграм",
+        "price": 2100,
+        "img": "ctlg/2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "FORGESIGNER",
+        "vendorcode": "333",
+        "description": "Теперь вопроса, что подарить другу дизайнеру, не будет",
+        "price": 2600,
+        "img": "ctlg/3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "AFNAN",
+        "vendorcode": "444",
+        "description": "Кружка, которой позавидует каждая, кто ведет блог про эстетику",
+        "price": 1900,
+        "img": "ctlg/4.jpg"
+    },
+    {
+        "id": "5",
+        "title": "HEARTS",
+        "vendorcode": "555",
+        "description": "Стоит сохранить эту кружку, чтобы потом не думать, что купить на 14 февраля",
+        "price": 3000,
+        "img": "ctlg/5.jpg"
+    },
+    {
+        "id": "6",
+        "title": "HEDGEHOG",
+        "vendorcode": "4446",
+        "description": "Самая добрая кружка, погружающая в детство",
+        "price": 2800,
+        "img": "ctlg/6.jpg"
+    },
+    {
+        "id": "7",
+        "title": "REDHEART",
+        "vendorcode": "777",
+        "description": "Красиво,а главное, можете не переживать, из нее удобно пить",
+        "price": 2600,
+        "img": "ctlg/7.jpg"
+    },
+    {
+        "id": "8",
+        "title": "MUSHROOM",
+        "vendorcode": "3338",
+        "description": "Яркая, добрая и смешная, будто эскиз для нее рисовал ребенок",
+        "price": 3300,
+        "img": "ctlg/8.jpg"
+    },
+    {
+        "id": "9",
+        "title": "NOTHING",
+        "vendorcode": "5559",
+        "description": "Для тех, у кого горят дедлайны, а кофе не вовремя заканчивается",
+        "price": 1800,
+        "img": "ctlg/9.jpg"
+    },
+    {
+        "id": "10",
+        "title": "NOTHING",
+        "vendorcode": "2221",
+        "description": "Для тех, у кого горят дедлайны, а кофе не вовремя заканчивается",
+        "price": 3000,
+        "img": "ctlg/10.jpg"
+    },
+    {
+        "id": "11",
+        "title": "NOTHING",
+        "vendorcode": "6668",
+        "description": "Для тех, у кого горят дедлайны, а кофе не вовремя заканчивается",
+        "price": 1900,
+        "img": "ctlg/11.jpg"
+    }
+]

@@ -1,0 +1,82 @@
+.html{
+    scroll-behavior: smooth;
+}
+.navpic{
+    height: 30px;
+}
+.homepage{
+    margin-top: 80px;
+}
+.big-margin{
+    margin-top: 100px;
+}
+.container{
+    max-width: 1200px;
+}
+section{
+    margin-top: 20px;
+}
+.footer{
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-size: 80%;
+}
+.bottom{
+    font-size: 70%;
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.btn{
+    margin-top: 30px;
+    height: max-content;
+    width: 300px;
+}
+h3{
+    color: white;
+}
+.cupshome{
+    border-radius: 10px;
+}
+.colpic{
+    border-radius: 10px;
+    height: 260px;
+}
+.creator{
+    border-radius: 10px;
+}
+.cards{
+    margin-left: 10px;
+}
+.card img{
+    height: 400px;
+}
+.card-body{
+    max-height: 150px;
+}
+.card-text{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box; 
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+@media (max-width: 768px) {
+    .lead {
+      font-size: 1.125rem;
+  }
+}
+@media (max-width: 576px) {
+    .lead {
+      font-size: 1.025rem;
+  }
+}
